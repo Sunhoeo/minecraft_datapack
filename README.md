@@ -22,4 +22,13 @@ Data Pack Version Format = (Design Minecraft Version).(Design Number)
 
 ---
 
+26.2.1 Data Pack Changes
+
+1. Modified the data pack's "pack.mcmeta" file to match the version.
+
+2. Changed the name of the "time_lock" function to "time_acd" (acd stands for anchored).
+
+
+---
+
 The information above is the most recent change.
