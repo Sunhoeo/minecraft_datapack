@@ -28,6 +28,11 @@ Data Pack Version Format = (Design Minecraft Version).(Design Number)
 
 2. Changed the name of the "time_lock" function to "time_acd" (acd stands for anchored).
 
+---
+
+Upload Alls.zip
+
+I have uploaded Alls.zip, which contains all the data packs released so far.
 
 ---
 
